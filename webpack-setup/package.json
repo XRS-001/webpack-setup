@@ -1,5 +1,5 @@
 {
-  "name": "prometheus-desktop",
+  "name": "webpack-setup",
   "version": "1.0.0",
   "main": "index.jsx",
   "scripts": {
